@@ -7,7 +7,7 @@
  */
 
 import java.util.Scanner;
-public class TP1 {
+public class tp1 {
 
     static int[] a;
     static int[] b;
